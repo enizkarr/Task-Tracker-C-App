@@ -1,0 +1,15 @@
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\bin\Debug\net8.0\task tracker app.exe
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\bin\Debug\net8.0\task tracker app.deps.json
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\bin\Debug\net8.0\task tracker app.runtimeconfig.json
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\bin\Debug\net8.0\task tracker app.dll
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\bin\Debug\net8.0\task tracker app.pdb
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.AssemblyInfoInputs.cache
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.AssemblyInfo.cs
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.csproj.CoreCompileInputs.cache
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.sourcelink.json
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.dll
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\refint\task tracker app.dll
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.pdb
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\task tracker app.genruntimeconfig.cache
+C:\Users\ZIRA\OneDrive - ZIRA Ltd\Desktop\Eniz\priv\Task-Tracker-C-App\task tracker app\task tracker app\obj\Debug\net8.0\ref\task tracker app.dll
